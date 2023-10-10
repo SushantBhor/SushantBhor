@@ -13,7 +13,7 @@
 <div><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SushantBhor&label=Profile%20views&color=0e75b6&style=flat" alt="SushantBhor" /> </p>
 
-🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
+🎓 &nbsp; I have completed my **Post Graduate Diploma In Advanced Computing**, from the **Institute Of Advanced Computing & Software Development** **(CDAC)**, Akurdi, Pune.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
 
