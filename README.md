@@ -15,7 +15,7 @@
 
 🎓 &nbsp; I have completed my **Post Graduate Diploma In Advanced Computing**, from the **Institute Of Advanced Computing & Software Development** **(CDAC)**, Akurdi, Pune.
 
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
+🎯 &nbsp; I am continuously exploring and developing projects using cutting-edge technologies like SpringBoot, React and MySQL.
 
 🌐 &nbsp; Let's collaborate and spark new ideas together by connecting on [LinkedIn](https://www.linkedin.com/in/sushantbhor/).
 
